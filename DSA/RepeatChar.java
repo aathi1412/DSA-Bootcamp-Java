@@ -1,6 +1,6 @@
 class repeat {
     public static void main(String[] args) {
-        String input = "t6hj7ui";
+        String input = "t6hj7ui";              // output: ttttttthjjjjjjjjui
         StringBuilder output = new StringBuilder();
         
         for (int i = 0; i < input.length(); i++) {
