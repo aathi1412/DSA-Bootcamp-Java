@@ -1,4 +1,4 @@
-package JavaBootcamp.OOPs.Polymorphism;
+
 
 //  ------------ Example 1 --- Inheritance
 class Animal{
