@@ -3,7 +3,7 @@ package JavaBootcamp.OOPs.Interfaces;
 public class Car implements Engine, InteriorDesign, MediaPlayer{
 
     @Override
-    public void playMusic() {
+    public void startMusic() {
         System.out.println("Start Music");
     }
 
