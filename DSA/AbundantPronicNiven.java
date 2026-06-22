@@ -1,5 +1,5 @@
 import java.util.*;
-public class pan {
+public class AbundantPronicNiven {
     public static void main(String []arrgs)
     {
         Scanner ss=new Scanner(System.in);
