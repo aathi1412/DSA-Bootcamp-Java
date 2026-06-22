@@ -1,4 +1,4 @@
-package JavaBootcamp.OOPs.Inheritance;
+
 
 class GrandParent{
     String name;
