@@ -1,4 +1,3 @@
-package Arrays.Arrays2D;
 
 public class snake1 {
     public static void main(String[] args) {
